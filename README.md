@@ -3,7 +3,7 @@ Projet informatique année 2023-2024,
 Réalisé par Mathieu, Alexandre et Hicham,
 
 Bienvenue dans "Cy Aleatorium" ! Où l'argent est votre meileur ami ! Voici un guide pour une bonne utilisation :
-- Lancer le jeu : après installation des fichiers nécessaires, entrer "make" dans le terminale puis taper "./exec";
+- Lancer le jeu : après installation des fichiers nécessaires, entrez "make all" dans le terminale puis taper "./Aleatorium";
 - Déplacement : utiliser les flèches du clavier afin de vous déplacer sur la carte;
 - Menu du jeu : pour accéder au menu en jeu, appuyer sur la touche "Echap" du clavier;
 - Progression : afin d'ouvrir une porte, il est nécessaire de faire des quêtes ou mini-jeu situés dans la salle, et de gagner pour obtenir une clé;
