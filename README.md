@@ -4,6 +4,7 @@ Réalisé par Mathieu, Alexandre et Hicham,
 
 Bienvenue dans **"Cy Aleatorium"** ! Où l'argent est votre meileur ami ! Voici un guide pour une bonne utilisation :
 
+- **Prérequis :** avoir la bibliothèsque `ncurses.h`.
 - **Lancer le jeu :** après installation des fichiers nécessaires, entrez `make all` dans le terminale puis taper `./Aleatorium`.
 - **Supprimer le jeu :** `make effacer`.
 - **Déplacement :** utiliser les flèches du clavier afin de vous déplacer sur la carte.
